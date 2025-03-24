@@ -3,7 +3,8 @@
 Sample Code: Analysis of League of Legends' 2022 dataset. 
 
 Final Project for EECS 398 at U-M
-Notable Contributions to view: data cleaning + baseline model + final model (decision tree classifier)
+
+# Contributions to view: data cleaning + baseline model + final model (decision tree classifier)
 
 Website: https://learningcchang.github.io/league-of-legends-analysis/
 
